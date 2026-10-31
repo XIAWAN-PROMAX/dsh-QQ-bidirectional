@@ -1,0 +1,5 @@
+# DSH ⇄ QQ 双向桥（dsh-QQ-bidirectional）
+# id 就是设置页的配置命名空间 / 日志前缀
+- insert:
+    - id: QQ-bidirectional
+      name: 'dsh-QQ-bidirectional'
