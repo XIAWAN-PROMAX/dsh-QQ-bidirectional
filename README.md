@@ -77,4 +77,4 @@ cp -r ~/.dsh/qqbridge/plugin/* ~/.dsh/profiles/web/node_modules/dsh-qq-bridge/
 
 ## License
 
-GPL-3.0-or-later · 作者 xiawan
+GPL-3.0-or-later · 作者 [xiawan-promax](https://github.com/xiawan-promax)
