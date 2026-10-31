@@ -1,16 +1,4 @@
-
-═══════════════════════════════════════════════════════════════════
-
-  dsh-QQ-bidirectional —— DSH ⇄ QQ 双向桥
-  Author  : xiawan-promax
-  Project : dsh-QQ-bidirectional
-  License : GNU General Public License v3.0 or later (GPL-3.0-or-later)
-
-  本插件依 GPL v3 授权发布。完整许可证文本见下。
-
-═══════════════════════════════════════════════════════════════════
-
-                    GNU GENERAL PUBLIC LICENSE
+GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -684,3 +672,14 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+═══════════════════════════════════════════════════════════════════
+
+  dsh-QQ-bidirectional —— DSH ⇄ QQ 双向桥
+  Author  : xiawan-promax
+  Project : dsh-QQ-bidirectional
+  License : GNU General Public License v3.0 or later (GPL-3.0-or-later)
+
+  本插件依 GPL v3 授权发布。完整许可证文本见下。
+
+═══════════════════════════════════════════════════════════════════
