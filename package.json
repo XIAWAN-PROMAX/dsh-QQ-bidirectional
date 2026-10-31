@@ -30,11 +30,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiawan/dsh-QQ-bidirectional.git"
+    "url": "https://github.com/xiawan-promax/dsh-QQ-bidirectional.git"
   },
-  "homepage": "https://github.com/xiawan/dsh-QQ-bidirectional",
+  "homepage": "https://github.com/xiawan-promax/dsh-QQ-bidirectional",
   "bugs": {
-    "url": "https://github.com/xiawan/dsh-QQ-bidirectional/issues"
+    "url": "https://github.com/xiawan-promax/dsh-QQ-bidirectional/issues"
   },
-  "author": "xiawan"
+  "author": "xiawan-promax"
 }
